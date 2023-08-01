@@ -4,5 +4,9 @@
     "titleBar.activeBackground": "#69206F",
     "titleBar.activeForeground": "#FDF8FD"
   },
-  "python.analysis.typeCheckingMode": "off"
+  "python.analysis.typeCheckingMode": "off",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "python.formatting.provider": "none"
 }
